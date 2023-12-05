@@ -15,3 +15,4 @@
 
 # MSBuild Binary and Structured Log
 *.binlog
+node_modules
